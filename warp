@@ -253,7 +253,7 @@ warp_plus() {
 # Menu
 menu() {
     clear
-    echo -e "${green}By --> Peyman * Github.com/Ptechgithub * ${rest}"
+    echo -e "${green}By --> pitter * Github.com/pitter * ${rest}"
     echo ""
     echo -e "${yellow}❤️Github.com/${cyan}bepass-org${yellow}/warp-plus❤️${rest}"
     echo -e "${purple}*********************************${rest}"
@@ -270,7 +270,7 @@ menu() {
     echo -e "${cyan}5]${rest} ${green}Psiphon [${yellow}+ All Locations${green}]${purple}    * ${rest}"
     echo -e "                              ${purple}  * ${rest}"
     echo -e "${cyan}6]${rest} ${green}Warp to ${purple}Warp plus${green} [${yellow}Free GB${green}]${rest}${purple}  * ${rest}"
-    echo -e "                              ${purple}  * ${rest}"
+    echo -e "                              ${purple}  * $Ptech{rest}"
     echo -e "${red}0]${rest} ${green}Exit                         ${purple}* ${rest}"
     echo -e "${purple}*********************************${rest}"
 }
