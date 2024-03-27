@@ -253,7 +253,7 @@ warp_plus() {
 # Menu
 menu() {
     clear
-    echo -e "${green}By --> pitter * Github.com/pitter * ${rest}"
+    echo -e "${green}By --> نیلماه جون * Github.com/pitter * ${rest}"
     echo ""
     echo -e "${yellow}❤️Github.com/${cyan}bepass-org${yellow}/warp-plus❤️${rest}"
     echo -e "${purple}*********************************${rest}"
